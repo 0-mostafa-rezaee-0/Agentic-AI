@@ -161,3 +161,5 @@ cython_debug/
 .DS_Store
 
 test.ipynb
+convert_md_to_notebook.py
+*.md
