@@ -162,4 +162,4 @@ cython_debug/
 
 test.ipynb
 convert_md_to_notebook.py
-*.md
+Lectures/**/*.md
